@@ -368,7 +368,7 @@
 <paymentService_v96>true</paymentService_v96>
 <debtService>true</debtService>
 <debtRemoveService>true</debtRemoveService>
-<debtRenameService>false</debtRenameService>
+<debtRenameService>true</debtRenameService>
 </node>
 <node id="194.186.207.23">
 <enabled>false</enabled>
