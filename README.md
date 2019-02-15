@@ -268,7 +268,7 @@
 <paymentService_v96>false</paymentService_v96>
 <debtService>true</debtService>
 <debtRemoveService>true</debtRemoveService>
-<debtRenameService>true</debtRenameService>
+<debtRenameService>false</debtRenameService>
 </node>
 <node id="ift-node3.testonline.sberbank.ru">
 <enabled>true</enabled>
